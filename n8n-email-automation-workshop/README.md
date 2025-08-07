@@ -25,4 +25,4 @@ This is an n8n workflow created as part of a hands-on workshop to send HTML emai
 ![Workflow Screenshot](assets/screenshot.jpg)
 
 ## ✍️ Author
-Sumith Sourav
+Sana Mehrooz
